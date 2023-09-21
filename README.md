@@ -1,4 +1,4 @@
-# Diwali_Sales_Analysis_Python
+# Diwali_Sales_EDA_Python
 In this project we are  analysing Diwali sales data to improve customer experience and sales by using python liabraries
 
 ## Project Learnings
